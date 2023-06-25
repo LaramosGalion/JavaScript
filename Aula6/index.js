@@ -17,3 +17,13 @@ console.log(nome,"casou-se com Maria em 2012.")
 console.log("Maria teve 1 filho com",nome,"em 2015.")
 console.log("O filho de",nome,"se chama Eduardo.")
 */ 
+/*
+Não pode criar variaveis com palavras reservadas
+Variaveis devem ter nomes significativos
+Não podem iniciar com números
+Não podem conter espaços ou traços
+Utiliza camelCase
+Case-sentive
+Não pode redeclara-lá
+Utilizar let, e não var
+*/
