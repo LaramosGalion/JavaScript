@@ -29,16 +29,22 @@ const teste = sum();
 
 console.log(teste);
 
+// Function por variavel
+
 const raiz = function (numero){
      return numero ** 0.5;
 };
 console.log(raiz(81)); 
+
+// Arrow Function
 
 const raizz = (numero) =>{
     return numero ** 0.5;
 };
 
 console.log(raizz(225));
+
+// Simplificação 
 
 const square = n => n ** 0.5;
 
