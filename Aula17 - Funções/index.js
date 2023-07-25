@@ -29,7 +29,7 @@ const teste = sum();
 
 console.log(teste);
 
-// Function por variavel
+// Function por variavel - função anonima
 
 const raiz = function (numero){
      return numero ** 0.5;
