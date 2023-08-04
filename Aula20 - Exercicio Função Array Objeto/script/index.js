@@ -23,7 +23,8 @@ function  dados(){
         // Começo do exercicio
 
         const pessoa = {
-            nome:nome.value, sobrenome:sobrenome.value,
+            nome:nome.value, 
+            sobrenome:sobrenome.value,
             peso:peso.value,
             altura:altura.value,
         };
