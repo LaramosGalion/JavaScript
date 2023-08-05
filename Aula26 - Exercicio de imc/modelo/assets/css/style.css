@@ -72,13 +72,23 @@ form input[type="submit"]:hover{
 
 section.tabela{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: start;
+    gap: 200px;
     padding: 20px;
 }
 
-section#resultado{
+section.tabela p{
+    margin-top: 10px;
+    line-height: 1.75rem;
+}
+
+section#resultado_section{
+    background-color: var(--corBase);
+}
+
+section#resultado_section p{
     width: 100%;
     margin: 10px auto;
     padding: 10px;
-    background-color: var(--corBase);
+    
 }
