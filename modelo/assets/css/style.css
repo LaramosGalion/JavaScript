@@ -27,6 +27,18 @@ body{
     font-size: 1rem;
 }
 
+main{
+    width: fit-content;
+    height: fit-content;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 30px;
+    line-height: 1.75rem;
+    font-weight: bold;
+    background-color: white;
+}
+
 .container{
     width: 600px;
     margin: 50px auto;
