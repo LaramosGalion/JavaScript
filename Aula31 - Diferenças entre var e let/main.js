@@ -1,4 +1,4 @@
-// Let rem escopo de bloco(dentro de chaves), quando declarada dentro e ao mesmo tempo fora, a prioridade sera a declaração interna
+// Let tem escopo de bloco(dentro de chaves), quando declarada dentro e ao mesmo tempo fora, a prioridade sera a declaração interna
 // Var tem escopo de função
 
 let nome = "Olá"; // criando
