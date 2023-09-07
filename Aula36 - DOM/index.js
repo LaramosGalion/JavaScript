@@ -1,0 +1,1 @@
+// DOM - Document Object Model - elemento "pai" do <html> - sendo uma API(Application Programming Interface) para modificar os elementos do html
